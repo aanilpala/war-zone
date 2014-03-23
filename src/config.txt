@@ -1,0 +1,20 @@
+#WarZone
+1200 600
+200	300
+25
+10 20 10
+25 35 15
+300 4
+200 200 
+150 100 50
+3
+
+#RoboFighters
+Zed 0 25 150
+Bellatrix 0 25 150
+Invader 0 25 150
+Hector 0 25 150
+Mandroid 0 25 150
+Sentinels 0 25 150
+Pa 1 25 150 68 65 83 87 32
+Marco 1 25 150 39 37 40 38 80
